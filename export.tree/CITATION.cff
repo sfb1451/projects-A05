@@ -1,0 +1,15 @@
+abstract: Project A05 focuses on the neural processes allowing adaptive locomotor
+  behaviour (walking) of the fruit fly. Using neurogenetic tools and optophysiological
+  approaches, descending pathways controlling rhythmic motor activity and adaptivity
+  in locomotor behaviour, e.g., when modifying walking speed, will be identified.
+  Emphasis will be given to analysing the role of proprioceptive feedback from the
+  legs and the potential role of interactions with brain networks via ascending pathways.
+authors:
+- {family-names: Ehrhardt, given-names: Erica}
+- {family-names: Ito, given-names: Kei}
+- {family-names: Büschges, given-names: Ansgar}
+- {family-names: Pierzchlińska, given-names: Anna}
+- {family-names: Thiel, given-names: Massimo}
+cff-version: 1.2.0
+message: Generated with data scraped from crc1451.uni-koeln.de
+title: 'A05: Neural mechanisms underlying motor flexibility in fruit fly walking'
