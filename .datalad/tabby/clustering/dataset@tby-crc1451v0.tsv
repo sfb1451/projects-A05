@@ -1,0 +1,14 @@
+# Documentation at	
+# bold indicates required	
+name	clustering
+title	Ascending neuron hierarchical clustering
+description	Classifications of ascending neurons into groups based on their morphology, images of these groups of similar neurons
+crc-project	A05
+version	latest
+sample[organism]	NCBITaxon:7227
+sample[organism-part]	UBERON:0001017
+keywords	
+license	
+doi	
+homepage	
+last-updated	

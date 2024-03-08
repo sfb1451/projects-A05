@@ -1,0 +1,12 @@
+name	segmentation		
+title	Light microscopy single-neuron segmentation		
+description	We used VVDViewer to segment single-cells out of over a thousand Drosophila melanogaster central nervous system light microscopy images.		
+crc-project	A05		
+version	latest		
+sample[organism]	NCBITaxon:7227		
+sample[organism-part]	UBERON:0001017		
+keywords			
+license			
+doi			
+homepage			
+last-updated			

@@ -1,0 +1,12 @@
+name	annotation
+title	Ascending neuron type input and output annotation
+description	Annotations describing where each ascending neuron has input and output sites, based on manual examination of segmented single-cell light microscopy images
+crc-project	A05
+version	latest
+sample[organism]	NCBITaxon:7227
+sample[organism-part]	UBERON:0001017
+keywords	
+license	
+doi	
+homepage	
+last-updated	
